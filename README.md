@@ -38,8 +38,8 @@ print("File received successfully")
 client.close()
 ```
 ## OUPUT:
-<img width="882" height="320" alt="image" src="https://github.com/user-attachments/assets/dc649f5c-dd3e-4e87-8350-bcb0d87320ff" />
-<img width="886" height="345" alt="image" src="https://github.com/user-attachments/assets/293bb573-8244-4b90-8db2-80265c8c06d4" />
+<img width="892" height="372" alt="image" src="https://github.com/user-attachments/assets/0ba9493a-bdef-4e94-b24d-f0acfbfdc00f" />
+<img width="886" height="378" alt="image" src="https://github.com/user-attachments/assets/7286b94b-ab87-402a-9afc-6a14e7e1bb5a" />
 
 ## RESULT:
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
